@@ -1,0 +1,790 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R 12 0 R 14 0 R 16 0 R 18 0 R 20 0 R 22 0 R 24 0 R 26 0 R 28 0 R 30 0 R 32 0 R] /Count 15 >>
+endobj
+3 0 obj
+<< /Length 2666 >>
+stream
+BT
+/F1 18 Tf 50 790 Td (COST & TIME PROJECT ANALYSIS) Tj
+/F1 15 Tf 50 750 Td (B.Tech IT Project Report) Tj
+/F1 13 Tf 50 720 Td (1. Title Page) Tj
+/F1 11 Tf 50 693 Td (**Project Title:** Cost & Time Project Analysis) Tj
+/F1 11 Tf 50 678 Td (**Submitted by:** Gaikwad Vaishnavi) Tj
+/F1 11 Tf 50 663 Td (**Roll No.:** ____________________) Tj
+/F1 11 Tf 50 648 Td (**Degree:** B.Tech in Information Technology) Tj
+/F1 11 Tf 50 633 Td (**Department:** Information Technology) Tj
+/F1 11 Tf 50 618 Td (**University Name:** ____________________) Tj
+/F1 11 Tf 50 603 Td (**Institute Name:** ____________________) Tj
+/F1 11 Tf 50 588 Td (**Academic Year:** 2025-2026) Tj
+/F1 11 Tf 50 573 Td (**Project Guide:** ____________________) Tj
+/F1 11 Tf 50 551 Td (---) Tj
+/F1 13 Tf 50 529 Td (2. Certificate) Tj
+/F1 11 Tf 50 502 Td (This is to certify that the project report titled **"Cost & Time Project) Tj
+/F1 11 Tf 50 487 Td (Analysis"** is the bonafide work of **Gaikwad Vaishnavi**, carried out in) Tj
+/F1 11 Tf 50 472 Td (partial fulfillment of the requirements for the degree of **Bachelor of) Tj
+/F1 11 Tf 50 457 Td (Technology in Information Technology**.) Tj
+/F1 11 Tf 50 435 Td (The project has been completed under my supervision and guidance. The work) Tj
+/F1 11 Tf 50 420 Td (presented in this report is original and has not been submitted elsewhere for) Tj
+/F1 11 Tf 50 405 Td (any other degree or diploma.) Tj
+/F1 11 Tf 50 383 Td (**Project Guide Name and Signature:** ____________________) Tj
+/F1 11 Tf 50 368 Td (**Head of Department Signature:** ____________________) Tj
+/F1 11 Tf 50 353 Td (**External Examiner Signature:** ____________________) Tj
+/F1 11 Tf 50 338 Td (**Date:** ____________________) Tj
+/F1 11 Tf 50 316 Td (---) Tj
+/F1 13 Tf 50 294 Td (3. Declaration) Tj
+/F1 11 Tf 50 267 Td (I hereby declare that the project work entitled **"Cost & Time Project) Tj
+/F1 11 Tf 50 252 Td (Analysis"** submitted by me is an authentic record of my own work carried out) Tj
+/F1 11 Tf 50 237 Td (under the guidance of my project guide.) Tj
+/F1 11 Tf 50 215 Td (The information presented in this report is true to the best of my knowledge.) Tj
+/F1 11 Tf 50 200 Td (This project has not been submitted previously to any university or institute) Tj
+/F1 11 Tf 50 185 Td (for the award of any degree or diploma.) Tj
+/F1 11 Tf 50 163 Td (**Student Name:** Gaikwad Vaishnavi) Tj
+/F1 11 Tf 50 148 Td (**Student Signature:** ____________________) Tj
+/F1 11 Tf 50 133 Td (**Date:** ____________________) Tj
+/F1 11 Tf 50 111 Td (---) Tj
+/F1 13 Tf 50 89 Td (4. Acknowledgment) Tj
+/F1 11 Tf 50 62 Td (I would like to express my sincere gratitude to my project guide for) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 3292 >>
+stream
+BT
+/F1 11 Tf 50 790 Td (continuous guidance, valuable suggestions and support throughout the) Tj
+/F1 11 Tf 50 775 Td (development of this project.) Tj
+/F1 11 Tf 50 753 Td (I am thankful to the Head of Department, faculty members and my institute for) Tj
+/F1 11 Tf 50 738 Td (providing the required facilities and learning environment. I also thank my) Tj
+/F1 11 Tf 50 723 Td (classmates, friends and all contributors who helped directly or indirectly) Tj
+/F1 11 Tf 50 708 Td (during project development.) Tj
+/F1 11 Tf 50 686 Td (Finally, I would like to thank my family for their motivation and constant) Tj
+/F1 11 Tf 50 671 Td (encouragement.) Tj
+/F1 11 Tf 50 649 Td (---) Tj
+/F1 13 Tf 50 627 Td (5. Abstract) Tj
+/F1 11 Tf 50 600 Td (Software project estimation is a critical activity in project management) Tj
+/F1 11 Tf 50 585 Td (because inaccurate cost and time prediction can lead to budget overruns,) Tj
+/F1 11 Tf 50 570 Td (delayed delivery and poor resource planning. Traditional estimation methods) Tj
+/F1 11 Tf 50 555 Td (often depend on manual judgment, previous experience and incomplete project) Tj
+/F1 11 Tf 50 540 Td (information. This creates difficulty for project managers in identifying risk,) Tj
+/F1 11 Tf 50 525 Td (assigning team members and monitoring actual project progress.) Tj
+/F1 11 Tf 50 503 Td (The proposed system, **Cost & Time Project Analysis**, is a web-based project) Tj
+/F1 11 Tf 50 488 Td (estimation and planning platform. It predicts project cost, completion) Tj
+/F1 11 Tf 50 473 Td (timeline, risk level, recommended team size and success probability using) Tj
+/F1 11 Tf 50 458 Td (machine learning techniques. The system uses Random Forest Regression and a) Tj
+/F1 11 Tf 50 443 Td (neural-network based MLP regressor for nonlinear estimation. It also) Tj
+/F1 11 Tf 50 428 Td (integrates PERT, CPM and Gantt chart planning to calculate expected duration,) Tj
+/F1 11 Tf 50 413 Td (critical path, slack and schedule risk.) Tj
+/F1 11 Tf 50 391 Td (The project includes user authentication, project history tracking, task) Tj
+/F1 11 Tf 50 376 Td (ownership, team profiles, actual vs predicted variance tracking, contact query) Tj
+/F1 11 Tf 50 361 Td (management, PDF report generation and an admin dashboard. The system is) Tj
+/F1 11 Tf 50 346 Td (developed using React for the frontend, Flask REST API for the backend and) Tj
+/F1 11 Tf 50 331 Td (SQLite/MySQL for database storage. The project helps users make data-driven) Tj
+/F1 11 Tf 50 316 Td (decisions for cost control, timeline planning and project risk management.) Tj
+/F1 11 Tf 50 294 Td (---) Tj
+/F1 13 Tf 50 272 Td (6. Table of Contents) Tj
+/F1 11 Tf 50 245 Td (Chapter No.    Title    Page No.) Tj
+/F1 11 Tf 50 230 Td (---  ---  ---) Tj
+/F1 11 Tf 50 215 Td (1    Introduction    ___) Tj
+/F1 11 Tf 50 200 Td (2    Literature Review    ___) Tj
+/F1 11 Tf 50 185 Td (3    System Analysis    ___) Tj
+/F1 11 Tf 50 170 Td (4    System Design    ___) Tj
+/F1 11 Tf 50 155 Td (5    Implementation    ___) Tj
+/F1 11 Tf 50 140 Td (6    Testing    ___) Tj
+/F1 11 Tf 50 125 Td (7    Results and Discussion    ___) Tj
+/F1 11 Tf 50 110 Td (8    Conclusion and Future Work    ___) Tj
+/F1 11 Tf 50 95 Td (9    References    ___) Tj
+/F1 11 Tf 50 80 Td (10    Appendices    ___) Tj
+/F1 11 Tf 50 58 Td (---) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 2019 >>
+stream
+BT
+/F1 13 Tf 50 790 Td (7. List of Figures) Tj
+/F1 11 Tf 50 763 Td (Figure No.    Figure Name) Tj
+/F1 11 Tf 50 748 Td (---  ---) Tj
+/F1 11 Tf 50 733 Td (4.1    System Architecture Diagram) Tj
+/F1 11 Tf 50 718 Td (4.2    Data Flow Diagram Level 0) Tj
+/F1 11 Tf 50 703 Td (4.3    Use Case Diagram) Tj
+/F1 11 Tf 50 688 Td (4.4    Class Diagram) Tj
+/F1 11 Tf 50 673 Td (4.5    Sequence Diagram) Tj
+/F1 11 Tf 50 658 Td (4.6    Entity Relationship Diagram) Tj
+/F1 11 Tf 50 643 Td (5.1    Home Page Screenshot) Tj
+/F1 11 Tf 50 628 Td (5.2    Prediction Page Screenshot) Tj
+/F1 11 Tf 50 613 Td (5.3    Dashboard Page Screenshot) Tj
+/F1 11 Tf 50 598 Td (5.4    Admin Dashboard Screenshot) Tj
+/F1 11 Tf 50 576 Td (---) Tj
+/F1 13 Tf 50 554 Td (8. List of Tables) Tj
+/F1 11 Tf 50 527 Td (Table No.    Table Name) Tj
+/F1 11 Tf 50 512 Td (---  ---) Tj
+/F1 11 Tf 50 497 Td (3.1    Functional Requirements) Tj
+/F1 11 Tf 50 482 Td (3.2    Non-functional Requirements) Tj
+/F1 11 Tf 50 467 Td (5.1    Technology Stack) Tj
+/F1 11 Tf 50 452 Td (6.1    Test Cases) Tj
+/F1 11 Tf 50 437 Td (7.1    Comparative Analysis) Tj
+/F1 11 Tf 50 415 Td (---) Tj
+/F1 13 Tf 50 393 Td (9. List of Abbreviations) Tj
+/F1 11 Tf 50 366 Td (Abbreviation    Full Form) Tj
+/F1 11 Tf 50 351 Td (---  ---) Tj
+/F1 11 Tf 50 336 Td (API    Application Programming Interface) Tj
+/F1 11 Tf 50 321 Td (CPM    Critical Path Method) Tj
+/F1 11 Tf 50 306 Td (DFD    Data Flow Diagram) Tj
+/F1 11 Tf 50 291 Td (ER    Entity Relationship) Tj
+/F1 11 Tf 50 276 Td (GUI    Graphical User Interface) Tj
+/F1 11 Tf 50 261 Td (JWT    JSON Web Token) Tj
+/F1 11 Tf 50 246 Td (ML    Machine Learning) Tj
+/F1 11 Tf 50 231 Td (MLP    Multilayer Perceptron) Tj
+/F1 11 Tf 50 216 Td (PDF    Portable Document Format) Tj
+/F1 11 Tf 50 201 Td (PERT    Program Evaluation and Review Technique) Tj
+/F1 11 Tf 50 186 Td (REST    Representational State Transfer) Tj
+/F1 11 Tf 50 171 Td (SQL    Structured Query Language) Tj
+/F1 11 Tf 50 156 Td (UI    User Interface) Tj
+/F1 11 Tf 50 134 Td (---) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 3264 >>
+stream
+BT
+/F1 18 Tf 50 790 Td (MAIN CONTENT) Tj
+/F1 15 Tf 50 750 Td (Chapter 1: Introduction) Tj
+/F1 13 Tf 50 720 Td (1.1 Background of the Project) Tj
+/F1 11 Tf 50 693 Td (Project cost and timeline estimation is one of the most important stages in) Tj
+/F1 11 Tf 50 678 Td (software project management. A wrong estimate can affect budget planning,) Tj
+/F1 11 Tf 50 663 Td (resource allocation, client satisfaction and project success. Many project) Tj
+/F1 11 Tf 50 648 Td (teams still use manual estimation methods that depend on guesswork, limited) Tj
+/F1 11 Tf 50 633 Td (historical data and subjective judgment.) Tj
+/F1 11 Tf 50 611 Td (Modern project management requires intelligent estimation systems that can) Tj
+/F1 11 Tf 50 596 Td (analyze project complexity, number of features, team experience, external) Tj
+/F1 11 Tf 50 581 Td (risks and actual progress. The proposed system addresses this need by) Tj
+/F1 11 Tf 50 566 Td (combining machine learning prediction with project planning techniques such as) Tj
+/F1 11 Tf 50 551 Td (PERT, CPM and Gantt charts.) Tj
+/F1 13 Tf 50 529 Td (1.2 Problem Statement) Tj
+/F1 11 Tf 50 502 Td (Many software projects fail to meet their planned budget and deadline because) Tj
+/F1 11 Tf 50 487 Td (project cost, time and risk are not estimated accurately at the beginning.) Tj
+/F1 11 Tf 50 472 Td (Task ownership is often unclear, project progress is not monitored in real) Tj
+/F1 11 Tf 50 457 Td (time and risks are identified late. There is a need for a system that can) Tj
+/F1 11 Tf 50 442 Td (predict cost and timeline, track project progress, identify high-risk tasks) Tj
+/F1 11 Tf 50 427 Td (and generate useful project reports.) Tj
+/F1 13 Tf 50 405 Td (1.3 Objectives) Tj
+/F1 11 Tf 50 378 Td (- To predict software project cost using machine learning.) Tj
+/F1 11 Tf 50 363 Td (- To predict project completion timeline in weeks.) Tj
+/F1 11 Tf 50 348 Td (- To identify project risk level and success probability.) Tj
+/F1 11 Tf 50 333 Td (- To recommend suitable team size.) Tj
+/F1 11 Tf 50 318 Td (- To calculate PERT expected duration and CPM critical path.) Tj
+/F1 11 Tf 50 303 Td (- To display interactive Gantt chart planning.) Tj
+/F1 11 Tf 50 288 Td (- To track project history and task ownership.) Tj
+/F1 11 Tf 50 273 Td (- To compare actual cost/time with predicted cost/time.) Tj
+/F1 11 Tf 50 258 Td (- To generate downloadable PDF reports.) Tj
+/F1 11 Tf 50 243 Td (- To provide an admin dashboard for monitoring users, predictions and contact) Tj
+/F1 11 Tf 50 228 Td (queries.) Tj
+/F1 13 Tf 50 206 Td (1.4 Scope) Tj
+/F1 11 Tf 50 179 Td (The scope of this project includes web-based project estimation, authenticated) Tj
+/F1 11 Tf 50 164 Td (user access, project prediction, project history tracking, report generation,) Tj
+/F1 11 Tf 50 149 Td (admin monitoring and deployment-ready architecture. The system can be used for) Tj
+/F1 11 Tf 50 134 Td (software projects and can be extended to infrastructure-style planning by) Tj
+/F1 11 Tf 50 119 Td (using external risk factors such as weather risk, vendor reliability and) Tj
+/F1 11 Tf 50 104 Td (regulatory delay risk.) Tj
+/F1 13 Tf 50 82 Td (1.5 Motivation) Tj
+/F1 11 Tf 50 55 Td (The motivation behind this project is to reduce manual estimation errors and) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 9 0 R >>
+endobj
+11 0 obj
+<< /Length 2952 >>
+stream
+BT
+/F1 11 Tf 50 790 Td (provide a practical decision-support tool for project managers, developers and) Tj
+/F1 11 Tf 50 775 Td (students. By using prediction models and planning algorithms, the system helps) Tj
+/F1 11 Tf 50 760 Td (users understand expected cost, timeline, risk and corrective actions.) Tj
+/F1 11 Tf 50 738 Td (---) Tj
+/F1 15 Tf 50 711 Td (Chapter 2: Literature Review) Tj
+/F1 13 Tf 50 681 Td (2.1 Review of Existing Systems) Tj
+/F1 11 Tf 50 654 Td (Existing project estimation systems commonly use methods such as expert) Tj
+/F1 11 Tf 50 639 Td (judgment, analogy-based estimation, COCOMO, function point analysis and) Tj
+/F1 11 Tf 50 624 Td (spreadsheet-based planning. Some project management tools provide Gantt charts) Tj
+/F1 11 Tf 50 609 Td (and task assignment, but they often do not combine prediction, risk analysis) Tj
+/F1 11 Tf 50 594 Td (and actual variance tracking in a single platform.) Tj
+/F1 13 Tf 50 572 Td (2.2 Existing Research) Tj
+/F1 11 Tf 50 545 Td (Software cost estimation research shows that machine learning algorithms such) Tj
+/F1 11 Tf 50 530 Td (as Random Forest, Support Vector Regression, Neural Networks and Ensemble) Tj
+/F1 11 Tf 50 515 Td (Models can improve estimation accuracy when sufficient project data is) Tj
+/F1 11 Tf 50 500 Td (available. Project scheduling methods such as PERT and CPM are widely used to) Tj
+/F1 11 Tf 50 485 Td (identify task dependencies and critical paths.) Tj
+/F1 13 Tf 50 463 Td (2.3 Comparison of Existing Solutions) Tj
+/F1 11 Tf 50 436 Td (System/Method    Features    Limitations) Tj
+/F1 11 Tf 50 421 Td (---  ---  ---) Tj
+/F1 11 Tf 50 406 Td (Manual Estimation    Simple and quick    Depends on experience, high error) Tj
+/F1 11 Tf 50 391 Td (risk) Tj
+/F1 11 Tf 50 376 Td (COCOMO    Structured cost estimation    Requires accurate project size and) Tj
+/F1 11 Tf 50 361 Td (calibration) Tj
+/F1 11 Tf 50 346 Td (Spreadsheet Planning    Easy to maintain    Limited automation and risk) Tj
+/F1 11 Tf 50 331 Td (analytics) Tj
+/F1 11 Tf 50 316 Td (Project Management Tools    Task tracking and Gantt charts    Limited cost) Tj
+/F1 11 Tf 50 301 Td (prediction and ML support) Tj
+/F1 11 Tf 50 286 Td (Proposed System    ML prediction, PERT, CPM, Gantt, history, reports) Tj
+/F1 11 Tf 50 271 Td (Accuracy depends on training data quality) Tj
+/F1 13 Tf 50 249 Td (2.4 Identified Gaps) Tj
+/F1 11 Tf 50 222 Td (- Lack of integrated cost and timeline prediction.) Tj
+/F1 11 Tf 50 207 Td (- Limited real-time risk monitoring.) Tj
+/F1 11 Tf 50 192 Td (- Limited project history and report generation.) Tj
+/F1 11 Tf 50 177 Td (- Poor visibility of task ownership and progress.) Tj
+/F1 11 Tf 50 162 Td (- Lack of actual vs predicted variance tracking.) Tj
+/F1 11 Tf 50 140 Td (---) Tj
+/F1 15 Tf 50 113 Td (Chapter 3: System Analysis) Tj
+/F1 13 Tf 50 83 Td (3.1 Existing System) Tj
+/F1 11 Tf 50 56 Td (In the existing manual system, project managers estimate cost and duration) Tj
+ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 11 0 R >>
+endobj
+13 0 obj
+<< /Length 2823 >>
+stream
+BT
+/F1 11 Tf 50 790 Td (based on experience, previous project records or spreadsheet calculations.) Tj
+/F1 11 Tf 50 775 Td (Task dependencies and risks are often analyzed separately. This makes the) Tj
+/F1 11 Tf 50 760 Td (planning process slow, less accurate and difficult to monitor.) Tj
+/F1 13 Tf 50 738 Td (3.2 Proposed System) Tj
+/F1 11 Tf 50 711 Td (The proposed system is a full-stack web application that predicts project) Tj
+/F1 11 Tf 50 696 Td (cost, timeline, team size, risk level and success probability. It supports) Tj
+/F1 11 Tf 50 681 Td (authentication, project prediction, PERT/CPM scheduling, Gantt chart) Tj
+/F1 11 Tf 50 666 Td (visualization, project history, variance tracking and PDF report generation.) Tj
+/F1 13 Tf 50 644 Td (3.3 Feasibility Study) Tj
+/F1 11 Tf 50 617 Td (Technical Feasibility) Tj
+/F1 11 Tf 50 595 Td (The project is technically feasible because it uses widely available) Tj
+/F1 11 Tf 50 580 Td (technologies such as React, Flask, SQLAlchemy, SQLite/MySQL and scikit-learn.) Tj
+/F1 11 Tf 50 565 Td (The system can run locally and can also be deployed using Render and Vercel.) Tj
+/F1 11 Tf 50 543 Td (Economic Feasibility) Tj
+/F1 11 Tf 50 521 Td (The system is cost-effective because it uses open-source tools and libraries.) Tj
+/F1 11 Tf 50 506 Td (It does not require paid APIs for basic functionality.) Tj
+/F1 11 Tf 50 484 Td (Operational Feasibility) Tj
+/F1 11 Tf 50 462 Td (The system is user-friendly and can be used by students, project managers and) Tj
+/F1 11 Tf 50 447 Td (developers. The dashboard and forms are designed to be simple and) Tj
+/F1 11 Tf 50 432 Td (understandable.) Tj
+/F1 13 Tf 50 410 Td (3.4 Requirement Analysis) Tj
+/F1 11 Tf 50 383 Td (Functional Requirements) Tj
+/F1 11 Tf 50 361 Td (Requirement ID    Requirement) Tj
+/F1 11 Tf 50 346 Td (---  ---) Tj
+/F1 11 Tf 50 331 Td (FR1    User registration and login) Tj
+/F1 11 Tf 50 316 Td (FR2    Project cost prediction) Tj
+/F1 11 Tf 50 301 Td (FR3    Project timeline prediction) Tj
+/F1 11 Tf 50 286 Td (FR4    Risk level prediction) Tj
+/F1 11 Tf 50 271 Td (FR5    Recommended team size) Tj
+/F1 11 Tf 50 256 Td (FR6    PERT/CPM task planning) Tj
+/F1 11 Tf 50 241 Td (FR7    Gantt chart visualization) Tj
+/F1 11 Tf 50 226 Td (FR8    Project history tracking) Tj
+/F1 11 Tf 50 211 Td (FR9    PDF report generation) Tj
+/F1 11 Tf 50 196 Td (FR10    Admin dashboard) Tj
+/F1 11 Tf 50 181 Td (FR11    Contact query saving) Tj
+/F1 11 Tf 50 166 Td (FR12    Actual vs predicted variance tracking) Tj
+/F1 11 Tf 50 144 Td (Non-functional Requirements) Tj
+/F1 11 Tf 50 122 Td (Requirement ID    Requirement) Tj
+/F1 11 Tf 50 107 Td (---  ---) Tj
+/F1 11 Tf 50 92 Td (NFR1    Responsive user interface) Tj
+/F1 11 Tf 50 77 Td (NFR2    Secure JWT authentication) Tj
+/F1 11 Tf 50 62 Td (NFR3    Fast prediction response) Tj
+ET
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 13 0 R >>
+endobj
+15 0 obj
+<< /Length 2422 >>
+stream
+BT
+/F1 11 Tf 50 790 Td (NFR4    Maintainable code structure) Tj
+/F1 11 Tf 50 775 Td (NFR5    Scalable backend API) Tj
+/F1 11 Tf 50 760 Td (NFR6    Reliable database storage) Tj
+/F1 11 Tf 50 745 Td (NFR7    User-friendly dashboard) Tj
+/F1 11 Tf 50 723 Td (---) Tj
+/F1 15 Tf 50 696 Td (Chapter 4: System Design) Tj
+/F1 13 Tf 50 666 Td (4.1 Architecture Diagram) Tj
+/F1 10 Tf 50 639 Td (    flowchart LR) Tj
+/F1 10 Tf 50 624 Td (    User[User/Admin] --> UI[React Frontend]) Tj
+/F1 10 Tf 50 609 Td (    UI --> API[Flask REST API]) Tj
+/F1 10 Tf 50 594 Td (    API --> Auth[JWT Authentication]) Tj
+/F1 10 Tf 50 579 Td (    API --> ML[Prediction Service]) Tj
+/F1 10 Tf 50 564 Td (    API --> PERT[PERT/CPM Service]) Tj
+/F1 10 Tf 50 549 Td (    API --> PDF[PDF Report Service]) Tj
+/F1 10 Tf 50 534 Td (    API --> DB[\(SQLite/MySQL Database\)]) Tj
+/F1 10 Tf 50 519 Td (    ML --> Model[\(Pickle ML Model\)]) Tj
+/F1 13 Tf 50 497 Td (4.2 Data Flow Diagram Level 0) Tj
+/F1 10 Tf 50 470 Td (    flowchart TD) Tj
+/F1 10 Tf 50 455 Td (    U[User] -->  Project Inputs   S[Cost & Time Project Analysis System]) Tj
+/F1 10 Tf 50 440 Td (    S -->  Prediction Result   U) Tj
+/F1 10 Tf 50 425 Td (    S -->  Store User, Project, Tasks   D[\(Database\)]) Tj
+/F1 10 Tf 50 410 Td (    Admin[Admin] -->  View Summary and Queries   S) Tj
+/F1 10 Tf 50 395 Td (    S -->  PDF Report   U) Tj
+/F1 13 Tf 50 373 Td (4.3 Use Case Diagram) Tj
+/F1 10 Tf 50 346 Td (    flowchart LR) Tj
+/F1 10 Tf 50 331 Td (    User\(\(User\)\)) Tj
+/F1 10 Tf 50 316 Td (    Admin\(\(Admin\)\)) Tj
+/F1 10 Tf 50 301 Td (    User --> Login[Login/Register]) Tj
+/F1 10 Tf 50 286 Td (    User --> Predict[Run Prediction]) Tj
+/F1 10 Tf 50 271 Td (    User --> Tasks[Add Tasks and Owners]) Tj
+/F1 10 Tf 50 256 Td (    User --> History[View History]) Tj
+/F1 10 Tf 50 241 Td (    User --> Report[Download PDF Report]) Tj
+/F1 10 Tf 50 226 Td (    User --> Variance[Update Actual Progress]) Tj
+/F1 10 Tf 50 211 Td (    Admin --> Summary[View Admin Summary]) Tj
+/F1 10 Tf 50 196 Td (    Admin --> Train[Retrain Model]) Tj
+/F1 10 Tf 50 181 Td (    Admin --> Queries[View Contact Queries]) Tj
+/F1 13 Tf 50 159 Td (4.4 Class Diagram) Tj
+/F1 10 Tf 50 132 Td (    classDiagram) Tj
+/F1 10 Tf 50 117 Td (    class User {) Tj
+/F1 10 Tf 50 102 Td (    int id) Tj
+/F1 10 Tf 50 87 Td (    string name) Tj
+/F1 10 Tf 50 72 Td (    string email) Tj
+/F1 10 Tf 50 57 Td (    string password_hash) Tj
+ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 15 0 R >>
+endobj
+17 0 obj
+<< /Length 2342 >>
+stream
+BT
+/F1 10 Tf 50 790 Td (    string role) Tj
+/F1 10 Tf 50 775 Td (    }) Tj
+/F1 10 Tf 50 760 Td (    class ProjectPrediction {) Tj
+/F1 10 Tf 50 745 Td (    int id) Tj
+/F1 10 Tf 50 730 Td (    int user_id) Tj
+/F1 10 Tf 50 715 Td (    string project_name) Tj
+/F1 10 Tf 50 700 Td (    string methodology) Tj
+/F1 10 Tf 50 685 Td (    string domain) Tj
+/F1 10 Tf 50 670 Td (    string complexity) Tj
+/F1 10 Tf 50 655 Td (    json inputs_json) Tj
+/F1 10 Tf 50 640 Td (    json result_json) Tj
+/F1 10 Tf 50 625 Td (    json pert_json) Tj
+/F1 10 Tf 50 610 Td (    }) Tj
+/F1 10 Tf 50 595 Td (    class ProjectAccess {) Tj
+/F1 10 Tf 50 580 Td (    int id) Tj
+/F1 10 Tf 50 565 Td (    int user_id) Tj
+/F1 10 Tf 50 550 Td (    int prediction_id) Tj
+/F1 10 Tf 50 535 Td (    string access_role) Tj
+/F1 10 Tf 50 520 Td (    }) Tj
+/F1 10 Tf 50 505 Td (    class ContactQuery {) Tj
+/F1 10 Tf 50 490 Td (    int id) Tj
+/F1 10 Tf 50 475 Td (    string name) Tj
+/F1 10 Tf 50 460 Td (    string email) Tj
+/F1 10 Tf 50 445 Td (    string query_type) Tj
+/F1 10 Tf 50 430 Td (    string message) Tj
+/F1 10 Tf 50 415 Td (    string status) Tj
+/F1 10 Tf 50 400 Td (    }) Tj
+/F1 10 Tf 50 385 Td (    User "1" --> "many" ProjectPrediction) Tj
+/F1 10 Tf 50 370 Td (    User "1" --> "many" ProjectAccess) Tj
+/F1 10 Tf 50 355 Td (    ProjectPrediction "1" --> "many" ProjectAccess) Tj
+/F1 13 Tf 50 333 Td (4.5 Sequence Diagram) Tj
+/F1 10 Tf 50 306 Td (    sequenceDiagram) Tj
+/F1 10 Tf 50 291 Td (    participant User) Tj
+/F1 10 Tf 50 276 Td (    participant React) Tj
+/F1 10 Tf 50 261 Td (    participant Flask) Tj
+/F1 10 Tf 50 246 Td (    participant MLService) Tj
+/F1 10 Tf 50 231 Td (    participant Database) Tj
+/F1 10 Tf 50 216 Td (    User->>React: Enter project inputs) Tj
+/F1 10 Tf 50 201 Td (    React->>Flask: POST /api/predict) Tj
+/F1 10 Tf 50 186 Td (    Flask->>MLService: Predict cost, time, risk) Tj
+/F1 10 Tf 50 171 Td (    MLService-->>Flask: Prediction result) Tj
+/F1 10 Tf 50 156 Td (    Flask->>Flask: Build PERT/CPM schedule) Tj
+/F1 10 Tf 50 141 Td (    Flask->>Database: Save prediction) Tj
+/F1 10 Tf 50 126 Td (    Database-->>Flask: Saved record) Tj
+/F1 10 Tf 50 111 Td (    Flask-->>React: Return result) Tj
+/F1 10 Tf 50 96 Td (    React-->>User: Show charts, Gantt and report option) Tj
+/F1 13 Tf 50 74 Td (4.6 Entity Relationship Diagram) Tj
+ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 17 0 R >>
+endobj
+19 0 obj
+<< /Length 2012 >>
+stream
+BT
+/F1 10 Tf 50 790 Td (    erDiagram) Tj
+/F1 10 Tf 50 775 Td (    USER     --o{ PROJECT_PREDICTION : creates) Tj
+/F1 10 Tf 50 760 Td (    USER     --o{ PROJECT_ACCESS : joins) Tj
+/F1 10 Tf 50 745 Td (    PROJECT_PREDICTION     --o{ PROJECT_ACCESS : shared_with) Tj
+/F1 10 Tf 50 730 Td (    CONTACT_QUERY {) Tj
+/F1 10 Tf 50 715 Td (    int id) Tj
+/F1 10 Tf 50 700 Td (    string name) Tj
+/F1 10 Tf 50 685 Td (    string email) Tj
+/F1 10 Tf 50 670 Td (    string query_type) Tj
+/F1 10 Tf 50 655 Td (    string message) Tj
+/F1 10 Tf 50 640 Td (    string status) Tj
+/F1 10 Tf 50 625 Td (    }) Tj
+/F1 10 Tf 50 610 Td (    USER {) Tj
+/F1 10 Tf 50 595 Td (    int id) Tj
+/F1 10 Tf 50 580 Td (    string name) Tj
+/F1 10 Tf 50 565 Td (    string email) Tj
+/F1 10 Tf 50 550 Td (    string role) Tj
+/F1 10 Tf 50 535 Td (    }) Tj
+/F1 10 Tf 50 520 Td (    PROJECT_PREDICTION {) Tj
+/F1 10 Tf 50 505 Td (    int id) Tj
+/F1 10 Tf 50 490 Td (    int user_id) Tj
+/F1 10 Tf 50 475 Td (    string project_name) Tj
+/F1 10 Tf 50 460 Td (    json result_json) Tj
+/F1 10 Tf 50 445 Td (    json pert_json) Tj
+/F1 10 Tf 50 430 Td (    }) Tj
+/F1 10 Tf 50 415 Td (    PROJECT_ACCESS {) Tj
+/F1 10 Tf 50 400 Td (    int id) Tj
+/F1 10 Tf 50 385 Td (    int user_id) Tj
+/F1 10 Tf 50 370 Td (    int prediction_id) Tj
+/F1 10 Tf 50 355 Td (    string access_role) Tj
+/F1 10 Tf 50 340 Td (    }) Tj
+/F1 13 Tf 50 318 Td (4.7 Database Design) Tj
+/F1 11 Tf 50 291 Td (Main database tables:) Tj
+/F1 11 Tf 50 269 Td (- User) Tj
+/F1 11 Tf 50 254 Td (- ProjectPrediction) Tj
+/F1 11 Tf 50 239 Td (- ProjectAccess) Tj
+/F1 11 Tf 50 224 Td (- ContactQuery) Tj
+/F1 11 Tf 50 202 Td (The database stores authentication data, project inputs, prediction results,) Tj
+/F1 11 Tf 50 187 Td (PERT/CPM tasks, project sharing records and contact queries.) Tj
+/F1 11 Tf 50 165 Td (---) Tj
+/F1 15 Tf 50 138 Td (Chapter 5: Implementation) Tj
+/F1 13 Tf 50 108 Td (5.1 Technologies Used) Tj
+/F1 11 Tf 50 81 Td (Layer    Technology) Tj
+/F1 11 Tf 50 66 Td (---  ---) Tj
+ET
+endstream
+endobj
+20 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 19 0 R >>
+endobj
+21 0 obj
+<< /Length 2620 >>
+stream
+BT
+/F1 11 Tf 50 790 Td (Frontend    React, Vite, CSS, Recharts, Framer Motion) Tj
+/F1 11 Tf 50 775 Td (Backend    Flask, Flask REST API) Tj
+/F1 11 Tf 50 760 Td (Database    SQLite / MySQL) Tj
+/F1 11 Tf 50 745 Td (Authentication    JWT) Tj
+/F1 11 Tf 50 730 Td (Machine Learning    scikit-learn, Random Forest, MLPRegressor) Tj
+/F1 11 Tf 50 715 Td (Report Generation    ReportLab) Tj
+/F1 11 Tf 50 700 Td (Deployment    Vercel, Render) Tj
+/F1 13 Tf 50 678 Td (5.2 Modules Description) Tj
+/F1 11 Tf 50 651 Td (Authentication Module) Tj
+/F1 11 Tf 50 629 Td (This module handles user registration, login and JWT token-based access) Tj
+/F1 11 Tf 50 614 Td (control. The first registered user becomes admin.) Tj
+/F1 11 Tf 50 592 Td (Prediction Module) Tj
+/F1 11 Tf 50 570 Td (This module accepts project inputs and predicts cost, timeline, risk level,) Tj
+/F1 11 Tf 50 555 Td (team size and success probability.) Tj
+/F1 11 Tf 50 533 Td (PERT/CPM Module) Tj
+/F1 11 Tf 50 511 Td (This module calculates expected task duration, early start, early finish, late) Tj
+/F1 11 Tf 50 496 Td (start, late finish, slack and critical path.) Tj
+/F1 11 Tf 50 474 Td (Gantt Chart Module) Tj
+/F1 11 Tf 50 452 Td (This module visualizes project schedule, task duration, progress and critical) Tj
+/F1 11 Tf 50 437 Td (tasks.) Tj
+/F1 11 Tf 50 415 Td (Dashboard Module) Tj
+/F1 11 Tf 50 393 Td (The dashboard shows project history, risk analytics, portfolio trends, team) Tj
+/F1 11 Tf 50 378 Td (profiles and variance tracking.) Tj
+/F1 11 Tf 50 356 Td (Admin Module) Tj
+/F1 11 Tf 50 334 Td (The admin dashboard displays users, predictions, contact queries and model) Tj
+/F1 11 Tf 50 319 Td (training controls.) Tj
+/F1 11 Tf 50 297 Td (Contact Module) Tj
+/F1 11 Tf 50 275 Td (The contact form stores user queries in the database so the admin can review) Tj
+/F1 11 Tf 50 260 Td (them.) Tj
+/F1 11 Tf 50 238 Td (PDF Report Module) Tj
+/F1 11 Tf 50 216 Td (This module generates downloadable PDF reports for project predictions.) Tj
+/F1 13 Tf 50 194 Td (5.3 Algorithms) Tj
+/F1 11 Tf 50 167 Td (Random Forest Regression) Tj
+/F1 11 Tf 50 145 Td (Random Forest Regression is used to predict multiple target values such as) Tj
+/F1 11 Tf 50 130 Td (project cost, timeline, team size and success probability. It works by) Tj
+/F1 11 Tf 50 115 Td (combining multiple decision trees and averaging their predictions.) Tj
+/F1 11 Tf 50 93 Td (MLP Neural Regressor) Tj
+/F1 11 Tf 50 71 Td (The MLPRegressor is a neural-network based model used to capture nonlinear) Tj
+/F1 11 Tf 50 56 Td (patterns in project data. It contains multiple hidden layers and uses ReLU) Tj
+ET
+endstream
+endobj
+22 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 21 0 R >>
+endobj
+23 0 obj
+<< /Length 2421 >>
+stream
+BT
+/F1 11 Tf 50 790 Td (activation.) Tj
+/F1 11 Tf 50 768 Td (PERT Formula) Tj
+/F1 11 Tf 50 746 Td (Expected Time:) Tj
+/F1 10 Tf 50 724 Td (    TE = \(Optimistic + 4 * Most Likely + Pessimistic\) / 6) Tj
+/F1 11 Tf 50 702 Td (Variance:) Tj
+/F1 10 Tf 50 680 Td (    Variance = \(\(Pessimistic - Optimistic\) / 6\)^2) Tj
+/F1 11 Tf 50 658 Td (CPM) Tj
+/F1 11 Tf 50 636 Td (CPM identifies the critical path by calculating early start, early finish,) Tj
+/F1 11 Tf 50 621 Td (late start, late finish and slack for each task.) Tj
+/F1 13 Tf 50 599 Td (5.4 Screenshots of System) Tj
+/F1 11 Tf 50 572 Td (Add the following screenshots in the final Word report:) Tj
+/F1 11 Tf 50 550 Td (- Home Page) Tj
+/F1 11 Tf 50 535 Td (- Login Page) Tj
+/F1 11 Tf 50 520 Td (- Prediction Page) Tj
+/F1 11 Tf 50 505 Td (- Prediction Result Page) Tj
+/F1 11 Tf 50 490 Td (- Gantt Chart) Tj
+/F1 11 Tf 50 475 Td (- Dashboard) Tj
+/F1 11 Tf 50 460 Td (- Variance Tracker) Tj
+/F1 11 Tf 50 445 Td (- Admin Dashboard) Tj
+/F1 11 Tf 50 430 Td (- Contact Page) Tj
+/F1 11 Tf 50 415 Td (- PDF Report) Tj
+/F1 11 Tf 50 393 Td (---) Tj
+/F1 15 Tf 50 366 Td (Chapter 6: Testing) Tj
+/F1 13 Tf 50 336 Td (6.1 Test Plan) Tj
+/F1 11 Tf 50 309 Td (The system was tested using functional testing, UI testing, API testing and) Tj
+/F1 11 Tf 50 294 Td (validation testing. Each major module was tested separately and then) Tj
+/F1 11 Tf 50 279 Td (integrated.) Tj
+/F1 13 Tf 50 257 Td (6.2 Test Cases) Tj
+/F1 11 Tf 50 230 Td (Test ID    Test Case    Input    Expected Output    Status) Tj
+/F1 11 Tf 50 215 Td (---  ---  ---  ---  ---) Tj
+/F1 11 Tf 50 200 Td (TC01    Register user    Name, email, password    User account created    Pass) Tj
+/F1 11 Tf 50 185 Td (TC02    Login user    Email, password    JWT token generated    Pass) Tj
+/F1 11 Tf 50 170 Td (TC03    Run prediction    Project inputs    Cost/time/risk output    Pass) Tj
+/F1 11 Tf 50 155 Td (TC04    Add PERT tasks    Task details    CPM/Gantt generated    Pass) Tj
+/F1 11 Tf 50 140 Td (TC05    Download report    Prediction ID    PDF downloaded    Pass) Tj
+/F1 11 Tf 50 125 Td (TC06    Join project    Project access code    Shared project access    Pass) Tj
+/F1 11 Tf 50 110 Td (TC07    Update task progress    Progress percentage    Dashboard updated) Tj
+/F1 11 Tf 50 95 Td (Pass) Tj
+/F1 11 Tf 50 80 Td (TC08    Save contact query    Contact form data    Query saved in database) Tj
+/F1 11 Tf 50 65 Td (Pass) Tj
+ET
+endstream
+endobj
+24 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 23 0 R >>
+endobj
+25 0 obj
+<< /Length 2557 >>
+stream
+BT
+/F1 11 Tf 50 790 Td (TC09    Admin summary    Admin login    Summary displayed    Pass) Tj
+/F1 11 Tf 50 775 Td (TC10    Variance tracker    Actual cost/time/progress    Variance calculated) Tj
+/F1 11 Tf 50 760 Td (Pass) Tj
+/F1 13 Tf 50 738 Td (6.3 Results and Analysis) Tj
+/F1 11 Tf 50 711 Td (The system successfully performs user authentication, prediction, report) Tj
+/F1 11 Tf 50 696 Td (generation, PERT/CPM calculation and dashboard visualization. The UI is) Tj
+/F1 11 Tf 50 681 Td (responsive and supports project management workflows.) Tj
+/F1 13 Tf 50 659 Td (6.4 Performance Evaluation) Tj
+/F1 11 Tf 50 632 Td (Prediction response is fast because the trained model is loaded from a pickle) Tj
+/F1 11 Tf 50 617 Td (file. The use of REST API separates frontend and backend responsibilities,) Tj
+/F1 11 Tf 50 602 Td (improving maintainability.) Tj
+/F1 11 Tf 50 580 Td (---) Tj
+/F1 15 Tf 50 553 Td (Chapter 7: Results and Discussion) Tj
+/F1 13 Tf 50 523 Td (7.1 Output Screens) Tj
+/F1 11 Tf 50 496 Td (The system produces the following outputs:) Tj
+/F1 11 Tf 50 474 Td (- Estimated project cost) Tj
+/F1 11 Tf 50 459 Td (- Estimated timeline) Tj
+/F1 11 Tf 50 444 Td (- Risk level) Tj
+/F1 11 Tf 50 429 Td (- Recommended team size) Tj
+/F1 11 Tf 50 414 Td (- Success probability) Tj
+/F1 11 Tf 50 399 Td (- Critical path) Tj
+/F1 11 Tf 50 384 Td (- Gantt chart) Tj
+/F1 11 Tf 50 369 Td (- Project health score) Tj
+/F1 11 Tf 50 354 Td (- Actual vs predicted variance) Tj
+/F1 11 Tf 50 339 Td (- PDF report) Tj
+/F1 13 Tf 50 317 Td (7.2 Comparative Analysis) Tj
+/F1 11 Tf 50 290 Td (Parameter    Manual Estimation    Proposed System) Tj
+/F1 11 Tf 50 275 Td (---  ---  ---) Tj
+/F1 11 Tf 50 260 Td (Cost Prediction    Experience based    ML based) Tj
+/F1 11 Tf 50 245 Td (Timeline Prediction    Manual calculation    ML + PERT/CPM) Tj
+/F1 11 Tf 50 230 Td (Risk Analysis    Limited    Automated risk scoring) Tj
+/F1 11 Tf 50 215 Td (Task Ownership    Manual    Dashboard based) Tj
+/F1 11 Tf 50 200 Td (Report Generation    Manual    PDF download) Tj
+/F1 11 Tf 50 185 Td (Progress Tracking    Basic    Actual vs predicted variance) Tj
+/F1 13 Tf 50 163 Td (7.3 Interpretation of Results) Tj
+/F1 11 Tf 50 136 Td (The project provides a structured way to estimate and monitor software) Tj
+/F1 11 Tf 50 121 Td (projects. It improves visibility of cost, schedule and risk. The use of task) Tj
+/F1 11 Tf 50 106 Td (ownership and variance tracking helps in identifying project delays and budget) Tj
+/F1 11 Tf 50 91 Td (deviations early.) Tj
+/F1 11 Tf 50 69 Td (---) Tj
+ET
+endstream
+endobj
+26 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 25 0 R >>
+endobj
+27 0 obj
+<< /Length 2724 >>
+stream
+BT
+/F1 15 Tf 50 785 Td (Chapter 8: Conclusion and Future Work) Tj
+/F1 13 Tf 50 755 Td (8.1 Summary of Work) Tj
+/F1 11 Tf 50 728 Td (The Cost & Time Project Analysis system was successfully developed as a full-) Tj
+/F1 11 Tf 50 713 Td (stack web application. It combines machine learning prediction, project) Tj
+/F1 11 Tf 50 698 Td (scheduling, dashboard analytics and report generation.) Tj
+/F1 13 Tf 50 676 Td (8.2 Achievements) Tj
+/F1 11 Tf 50 649 Td (- Implemented cost and timeline prediction.) Tj
+/F1 11 Tf 50 634 Td (- Added risk level and success probability analysis.) Tj
+/F1 11 Tf 50 619 Td (- Implemented PERT, CPM and Gantt chart.) Tj
+/F1 11 Tf 50 604 Td (- Added user authentication and project history.) Tj
+/F1 11 Tf 50 589 Td (- Added task ownership and team profile tracking.) Tj
+/F1 11 Tf 50 574 Td (- Added actual vs predicted variance tracker.) Tj
+/F1 11 Tf 50 559 Td (- Added contact query management.) Tj
+/F1 11 Tf 50 544 Td (- Added admin dashboard and PDF report generation.) Tj
+/F1 13 Tf 50 522 Td (8.3 Limitations) Tj
+/F1 11 Tf 50 495 Td (- Prediction accuracy depends on dataset quality.) Tj
+/F1 11 Tf 50 480 Td (- The bundled dataset is suitable for demonstration.) Tj
+/F1 11 Tf 50 465 Td (- Email sending is not integrated; contact queries are stored in database.) Tj
+/F1 11 Tf 50 450 Td (- Real-time external APIs are not connected.) Tj
+/F1 13 Tf 50 428 Td (8.4 Future Enhancements) Tj
+/F1 11 Tf 50 401 Td (- Add TensorFlow/Keras deep learning model.) Tj
+/F1 11 Tf 50 386 Td (- Add cloud MySQL database deployment.) Tj
+/F1 11 Tf 50 371 Td (- Add email notification system.) Tj
+/F1 11 Tf 50 356 Td (- Add role-based permissions for manager and viewer.) Tj
+/F1 11 Tf 50 341 Td (- Add project comparison page.) Tj
+/F1 11 Tf 50 326 Td (- Add live integration with issue tracking tools.) Tj
+/F1 11 Tf 50 311 Td (- Add advanced analytics for dataset quality and model explainability.) Tj
+/F1 11 Tf 50 289 Td (---) Tj
+/F1 15 Tf 50 262 Td (References) Tj
+/F1 11 Tf 50 232 Td (1. B. W. Boehm, "Software Engineering Economics," Prentice Hall, 1981.) Tj
+/F1 11 Tf 50 217 Td (2. L. Breiman, "Random Forests," Machine Learning, 2001.) Tj
+/F1 11 Tf 50 202 Td (3. Scikit-learn Documentation, "RandomForestRegressor and MLPRegressor," 2026.) Tj
+/F1 11 Tf 50 187 Td (4. Flask Documentation, "Flask Web Development Framework," 2026.) Tj
+/F1 11 Tf 50 172 Td (5. React Documentation, "React Frontend Library," 2026.) Tj
+/F1 11 Tf 50 157 Td (6. ReportLab Documentation, "PDF Generation in Python," 2026.) Tj
+/F1 11 Tf 50 142 Td (7. Project Management Institute, "A Guide to the Project Management Body of) Tj
+/F1 11 Tf 50 127 Td (Knowledge," PMI.) Tj
+/F1 11 Tf 50 105 Td (---) Tj
+/F1 15 Tf 50 78 Td (Appendices) Tj
+ET
+endstream
+endobj
+28 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 27 0 R >>
+endobj
+29 0 obj
+<< /Length 2567 >>
+stream
+BT
+/F1 13 Tf 50 790 Td (Appendix A: API Documentation) Tj
+/F1 11 Tf 50 763 Td (Method    Endpoint    Description) Tj
+/F1 11 Tf 50 748 Td (---  ---  ---) Tj
+/F1 11 Tf 50 733 Td (POST    /api/auth/register    Register user) Tj
+/F1 11 Tf 50 718 Td (POST    /api/auth/login    Login user) Tj
+/F1 11 Tf 50 703 Td (GET    /api/auth/me    Get logged-in user) Tj
+/F1 11 Tf 50 688 Td (POST    /api/predict    Create project prediction) Tj
+/F1 11 Tf 50 673 Td (GET    /api/history    Get project history) Tj
+/F1 11 Tf 50 658 Td (GET    /api/problems    Get project problems) Tj
+/F1 11 Tf 50 643 Td (POST    /api/pert-cpm    Calculate PERT/CPM) Tj
+/F1 11 Tf 50 628 Td (GET    /api/reports/{id}    Download PDF report) Tj
+/F1 11 Tf 50 613 Td (POST    /api/projects/join    Join shared project) Tj
+/F1 11 Tf 50 598 Td (PATCH    /api/projects/{id}/tasks/{taskId}    Update task progress) Tj
+/F1 11 Tf 50 583 Td (PATCH    /api/projects/{id}/actuals    Update actual cost/time/progress) Tj
+/F1 11 Tf 50 568 Td (POST    /api/contact    Save contact query) Tj
+/F1 11 Tf 50 553 Td (GET    /api/admin/summary    Admin summary) Tj
+/F1 13 Tf 50 531 Td (Appendix B: User Manual) Tj
+/F1 11 Tf 50 504 Td (1. Open the application.) Tj
+/F1 11 Tf 50 489 Td (2. Register or login.) Tj
+/F1 11 Tf 50 474 Td (3. Go to Prediction page.) Tj
+/F1 11 Tf 50 459 Td (4. Enter project details.) Tj
+/F1 11 Tf 50 444 Td (5. Add PERT/CPM tasks.) Tj
+/F1 11 Tf 50 429 Td (6. Run prediction.) Tj
+/F1 11 Tf 50 414 Td (7. View result, Gantt chart and recommendations.) Tj
+/F1 11 Tf 50 399 Td (8. Download PDF report.) Tj
+/F1 11 Tf 50 384 Td (9. Open Dashboard for history and variance tracking.) Tj
+/F1 11 Tf 50 369 Td (10. Admin can view contact queries and train model.) Tj
+/F1 13 Tf 50 347 Td (Appendix C: Deployment Steps) Tj
+/F1 11 Tf 50 320 Td (Backend:) Tj
+/F1 10 Tf 50 298 Td (    cd backend) Tj
+/F1 10 Tf 50 283 Td (    pip install -r requirements.txt) Tj
+/F1 10 Tf 50 268 Td (    python run.py) Tj
+/F1 11 Tf 50 246 Td (Frontend:) Tj
+/F1 10 Tf 50 224 Td (    cd frontend) Tj
+/F1 10 Tf 50 209 Td (    npm install) Tj
+/F1 10 Tf 50 194 Td (    npm run dev) Tj
+/F1 11 Tf 50 172 Td (Production:) Tj
+/F1 11 Tf 50 150 Td (- Backend can be deployed on Render.) Tj
+/F1 11 Tf 50 135 Td (- Frontend can be deployed on Vercel.) Tj
+/F1 11 Tf 50 120 Td (- Set VITE_API_URL in frontend environment variables.) Tj
+/F1 11 Tf 50 105 Td (- Set FRONTEND_URLS, SECRET_KEY, JWT_SECRET_KEY and DATABASE_URL in backend) Tj
+/F1 11 Tf 50 90 Td (environment variables.) Tj
+/F1 13 Tf 50 68 Td (Appendix D: Formatting Guidelines) Tj
+ET
+endstream
+endobj
+30 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 29 0 R >>
+endobj
+31 0 obj
+<< /Length 370 >>
+stream
+BT
+/F1 11 Tf 50 790 Td (- Font: Times New Roman) Tj
+/F1 11 Tf 50 775 Td (- Normal text size: 12) Tj
+/F1 11 Tf 50 760 Td (- Heading size: 14 to 16 bold) Tj
+/F1 11 Tf 50 745 Td (- Line spacing: 1.5) Tj
+/F1 11 Tf 50 730 Td (- Left margin: 1.5 inch) Tj
+/F1 11 Tf 50 715 Td (- Other margins: 1 inch) Tj
+/F1 11 Tf 50 700 Td (- Page number: bottom center or bottom right) Tj
+ET
+endstream
+endobj
+32 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 31 0 R >>
+endobj
+33 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+xref
+0 34
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000000239 00000 n 
+0000002957 00000 n 
+0000003083 00000 n 
+0000006427 00000 n 
+0000006553 00000 n 
+0000008624 00000 n 
+0000008750 00000 n 
+0000012066 00000 n 
+0000012193 00000 n 
+0000015198 00000 n 
+0000015326 00000 n 
+0000018202 00000 n 
+0000018330 00000 n 
+0000020805 00000 n 
+0000020933 00000 n 
+0000023328 00000 n 
+0000023456 00000 n 
+0000025521 00000 n 
+0000025649 00000 n 
+0000028322 00000 n 
+0000028450 00000 n 
+0000030924 00000 n 
+0000031052 00000 n 
+0000033662 00000 n 
+0000033790 00000 n 
+0000036567 00000 n 
+0000036695 00000 n 
+0000039315 00000 n 
+0000039443 00000 n 
+0000039865 00000 n 
+0000039993 00000 n 
+trailer
+<< /Size 34 /Root 33 0 R >>
+startxref
+40043
+%%EOF

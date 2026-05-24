@@ -1,0 +1,10 @@
+{
+  "sqliteViewer.database": "backend/instance/dev.db",
+  "sqltools.connections": [
+    {
+      "name": "Cost & Time Project Analysis SQLite",
+      "driver": "SQLite",
+      "database": "${workspaceFolder:software-project-estimator-ai}/backend/instance/dev.db"
+    }
+  ]
+}

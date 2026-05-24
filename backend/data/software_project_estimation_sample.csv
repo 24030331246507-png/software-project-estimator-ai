@@ -1,0 +1,6 @@
+team_experience,features,integrations,team_velocity,requirements_volatility,security_level,reuse_percent,estimated_kloc,complexity,domain,methodology,cost_usd,timeline_weeks,team_size,success_probability
+7.2,28,4,34,18,3,22,18.5,Medium,Enterprise,Agile,74200,18.2,6,82
+4.5,52,9,24,41,4,8,44.0,High,FinTech,Scrum,196500,39.8,9,63
+8.9,18,2,43,12,2,35,11.0,Low,Education,Agile,38200,9.5,4,91
+5.8,74,13,22,55,5,4,82.0,Critical,Healthcare,Hybrid,451000,72.0,14,48
+6.6,45,7,31,26,3,16,35.5,High,E-commerce,Scrum,138900,28.4,8,75

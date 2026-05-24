@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+node_modules/
+dist/
+backend/ml/*.pkl
+backend/reports/*.pdf
+backend/instance/
+*.db
+*.log
